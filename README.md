@@ -1,8 +1,7 @@
 # Ventilation-Project
+#### Web Application for ABB Ventilation Controller
 Created by Metropolia University of Applied Science IT engineering students in the Smart IoT Systems major.
 Authors: Melany Macias, Daniel Radvanyi, Ha Do, Manish Subedi, Ahmed Al-Tuwaijari
-#### Web Application for ABB Ventilation Controller
-
 # Description
 The web user interface covers up this section of the ABB ventilation control project. The web application enables user interaction with the LPCxpresso microcontroller that controls the fan and reads measurements from various sensors. The following settings can be managed via the web user interface's dashboard: the user can switch between automatic and manual modes; target speed when the user is in manual mode; target speed when the automatic mode is selected. Additionally, on the stats page, the user can view the detailed statistics of the measurement data kept in the database. User sessions, user activity and logins can be inspected on the user statistics page. The project also utilizes a separate *student* and *teacher/admin* account system. 
 # Contents
